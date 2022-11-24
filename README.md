@@ -1,4 +1,4 @@
-# Tours Project
+# Reviews Project
 
 ## [Live Preview](https://ilyaeru.github.io/Reviews-React-Project/)
 
